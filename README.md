@@ -1,8 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh9496" alt="ankitsingh9496" /></a> </p>
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"></br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh9496" alt="ankitsingh9496" /></a> </p>
 
 - 🔭 I’m currently working on **Drowsiness Detection System**
 
