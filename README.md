@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsingh9496&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh9496" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh9496" alt="ankitsingh9496" /></a> </p>
 
 - 🔭 I’m currently working on **Drowsiness Detection System**
